@@ -3,7 +3,7 @@ mein Name ist **Michael** und ich komme aus Deutschland. Seit 1988 arbeite ich a
 
 Neben anderen Hobbys interessiere ich mich für 3D([blender](https://www.blender.org/features/), 3d-Drucker), Elektronik (ESP, Sensoren, Aktoren, Protokolle…), smart home([ioBroker](https://iobroker.com/)) und für alles was zu diesen Themenbereichen dazu gehört.
 
-Ich verwende kein social media, da ich dafür keine Zeit aufwenden möchte und *bisher* keinerlei Vorteil darin erkenne konnte.
+Ich verwende kein social media, da ich dafür keine Zeit aufwenden möchte und *bisher* keinerlei Vorteil darin erkennen konnte.
 
 <hr>
 
